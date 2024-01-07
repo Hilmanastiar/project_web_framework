@@ -7,7 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-![image.png]( {photo_2024-01-07_13-27-02.jpg} )
+<img src="photo_2024-01-07_13-27-02.jpg" alt="#">
+!image.png({photo_2024-01-07_13-27-02.jpg})
 
 ## About Laravel
 
