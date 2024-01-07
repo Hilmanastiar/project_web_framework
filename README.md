@@ -10,6 +10,8 @@
 <img src="photo_2024-01-07_13-27-02.jpg" alt="dashboardadmin">
 <img src="photo_2024-01-07_13-34-40.jpg" alt="menu">
 <img src="Screenshot (53).png" alt="#">
+<img src="Screenshot (54).png" alt="#">
+<img src="Screenshot (55).png" alt="#">
 
 
 ## About Laravel
